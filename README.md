@@ -3,8 +3,6 @@
 Server Performance Stats is a lightweight Bash script designed to analyze basic server performance metrics on any Linux system.  
 The script provides a quick, readable overview of system resource usage and helps identify processes consuming the most CPU and memory.
 
-This project is ideal for beginners learning Linux, Bash scripting, or basic server monitoring concepts.
-
 ---
 
 ## Features
