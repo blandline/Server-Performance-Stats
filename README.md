@@ -41,6 +41,7 @@ The script provides a quick, readable overview of system resource usage and help
 
 ```bash
 chmod +x server-stats.sh
+```
 
 ```bash
 ./server-stats.sh
